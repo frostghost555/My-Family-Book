@@ -1,0 +1,16 @@
+
+  img{
+    height: 100px;
+    width: 100px;
+    }
+ h1{
+    color: #006400;
+    margin-top: 20px;
+    font-family: Comic Sans MS, cursive, sans-serif;
+    }
+.button{
+    margin-left: 45%;
+    }
+body{
+background:aqua
+}
